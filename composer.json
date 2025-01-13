@@ -1,5 +1,5 @@
 {
-    "name": "agenceink/craft-mailerlite",
+    "name": "msirse/craft-mailerlite",
     "description": "An easy tool to subscribe users to your MailerLite list",
     "type": "craft-plugin",
     "license": "mit",
